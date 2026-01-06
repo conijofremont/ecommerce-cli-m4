@@ -66,3 +66,9 @@ Todos los tests se ejecutan correctamente con:
 
 ```bash
 mvn test
+
+## Repositorio GitHub
+
+Repositorio público del proyecto:  
+https://github.com/conijofremont/ecommerce-cli-m4
+
